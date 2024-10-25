@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringReversal", "StringReversal\StringReversal.csproj", "{9C6FB8D6-05BB-45B7-A092-E1C49A606E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTest", "NTest\NTest.csproj", "{851C220A-CC23-4994-8BD5-7BE5836C0020}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XTest", "XTest\XTest.csproj", "{6AD5AF76-E042-4583-8ABD-65DBD5D531CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6FB8D6-05BB-45B7-A092-E1C49A606E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6FB8D6-05BB-45B7-A092-E1C49A606E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6FB8D6-05BB-45B7-A092-E1C49A606E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6FB8D6-05BB-45B7-A092-E1C49A606E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851C220A-CC23-4994-8BD5-7BE5836C0020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851C220A-CC23-4994-8BD5-7BE5836C0020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851C220A-CC23-4994-8BD5-7BE5836C0020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851C220A-CC23-4994-8BD5-7BE5836C0020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD5AF76-E042-4583-8ABD-65DBD5D531CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD5AF76-E042-4583-8ABD-65DBD5D531CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD5AF76-E042-4583-8ABD-65DBD5D531CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD5AF76-E042-4583-8ABD-65DBD5D531CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
